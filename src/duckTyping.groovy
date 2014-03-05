@@ -1,4 +1,3 @@
-class duckTyping {
 	def now = new Date()
 	println now
 	println now.class
@@ -13,4 +12,8 @@ class duckTyping {
 	def list = new ArrayList(["first", "second", "third"])
 	println list
 	println list.class
-}
+
+	def var = false
+	println var
+	println var.class
+
