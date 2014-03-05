@@ -10,6 +10,9 @@ println myList.size()
 myList.add("a string")
 println myList
 
+myList.remove("a string")
+println myList
+
 def myMap = [:]
 myMap = ["name": "Doug", "age": 37, "favNumber": 87.13 ]
 println myMap.name

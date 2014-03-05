@@ -13,3 +13,5 @@ myList.each {
 }
 
 
+3.times { println "Doug is cool"}
+3.times { println "index is ${it}"}
